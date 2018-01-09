@@ -1,0 +1,16 @@
+build
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.gradle
+/.project
+/.settings
+/RUNNING_PID
+.idea
+*.iml
+dist
+node_modules
+target
+npm-debug.log
