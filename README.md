@@ -27,8 +27,6 @@ dev
 ==
 start playserver with debug port 9999
 1. /sbt run -jvm-debug 9999
-
-*bundle frontend js and css to the public folder of play server*
 2. cd frontend/react-redux-todo-app
 3. npm install
 4. export NODE_ENV=production  
